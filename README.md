@@ -35,6 +35,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 5° seme
 <br>
 
 <h2> 🎯 MVP </h2>
+<img src="./docs/mvp-sprint1.mp4" alt="MVP" width=700>
 
 <br>
 
@@ -47,23 +48,24 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 5° seme
         <th> Sprint </th>
         <th> Início </th>
         <th> Entrega </th>
+        <th> Status </th>
         <th> Relatório </th>
         <!--<th> Wiki </th>-->
-       <!-- <th> Status </th>-->
+        <!--<th> Status </th>-->
     </tr>
     <tr align="center">
         <td> 1 </td>
         <td> 10/03/2025 </td>
         <td> 30/03/2025 </td>
-        <td> ⏳ </td>
-        <!-- <td> <a href="https://github.com/Equipe-CodeLand/API-2024.2/wiki/API%E2%80%902024.2-%E2%80%90-Sprint-1">Wiki</a> </td>
-        <td> Concluída </td> -->
+        <td> ✅ </td>
+        <td> <a href="https://github.com/Equipe-CodeLand/API-2025.1/wiki/API%E2%80%902025.1-%E2%80%90-Sprint-1">Wiki</a> </td>
+        <!--<td> Concluída </td>-->
     </tr>
      <tr align="center">
         <td> 2 </td>
         <td> 07/04/2025 </td>
         <td> 27/04/2025 </td>
-        <td> ❌ </td>
+        <td> ⏳ </td>
         <!--<td> <a href="https://github.com/Equipe-CodeLand/API-2024.2/wiki/API%E2%80%902024.2-%E2%80%90-Sprint-2">Wiki</a> </td>
         <td> Concluída </td> -->
     </tr>
@@ -78,16 +80,13 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 5° seme
 </table>
 
 <br>
-<!--
+
 <span id="backlog">
-<h2> Backlog Quarta Sprint </h2>
-<img src="./docs/BacklogSprint4.png" width=700 />
+<h2> Backlog Primeira Sprint </h2>
+<img src="./docs/BacklogSprint1.png" width=700 />
 <br>
 <h3> Requisitos </h3>
 <img src="./docs/Requisitos.png" width=700 /> 
-<br>
-<h3> Rastreamento de Requisitos </h3>
-<img src="./docs/rastreamento.png" width=700 /> 
 <br>
 <h3> User Stories </h3>
 <img src="./docs/UserStories.png" width=700/>
@@ -95,10 +94,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 5° seme
 <h2> Padrão de Commit </h2>
 <img src="./docs/PadraoCommit.png" width=700 />
 <br>
-<h2> Fluxo de Trabalho </h2>
-<img src="./docs/fluxo.png" width=700 />
-<br>
--->
+
 <span id="equipe">
 
 <h2> 👨‍💻 Equipe </h2>
