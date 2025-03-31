@@ -35,7 +35,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 5° seme
 <br>
 
 <h2> 🎯 MVP </h2>
-<img src="./docs/mvp-sprint1.mp4" alt="MVP" width=700>
+<img src="./docs/mvp-sprint1.gif" alt="MVP" width=700>
 
 <br>
 
