@@ -35,7 +35,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 5° seme
 <br>
 
 <h2> 🎯 MVP </h2>
-<img src="./docs/mvp-sprint1.gif" alt="MVP" width=700>
+<img src="./docs/mvp-sprint2.gif" alt="MVP" width=700>
 
 <br>
 
@@ -65,15 +65,15 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 5° seme
         <td> 2 </td>
         <td> 07/04/2025 </td>
         <td> 27/04/2025 </td>
-        <td> ⏳ </td>
-        <!--<td> <a href="https://github.com/Equipe-CodeLand/API-2024.2/wiki/API%E2%80%902024.2-%E2%80%90-Sprint-2">Wiki</a> </td>
-        <td> Concluída </td> -->
+        <td> ✅ </td>
+        <td> <a href="https://github.com/Equipe-CodeLand/API-2025.1/wiki/API%E2%80%902025.1-%E2%80%90-Sprint-2">Wiki</a> </td>
+        <!--<td> Concluída </td> -->
     </tr>
     <tr align="center">
         <td> 3 </td>
         <td> 05/05/2025 </td>
         <td> 25/05/2025 </td>
-        <td> ❌ </td>
+        <td> ⏳ </td>
         <!--<td> <a href="https://github.com/Equipe-CodeLand/API-2024.2/wiki/API%E2%80%902024.2-%E2%80%90-Sprint-4">Wiki</a> </td>
         <td> Concluída </td>-->
     </tr>
@@ -82,8 +82,8 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 5° seme
 <br>
 
 <span id="backlog">
-<h2> Backlog Primeira Sprint </h2>
-<img src="./docs/BacklogSprint1.png" width=700 />
+<h2> Backlog Segunda Sprint </h2>
+<img src="./docs/BacklogSprint2.png" width=700 />
 <br>
 <h3> Requisitos </h3>
 <img src="./docs/Requisitos.png" width=700 /> 
